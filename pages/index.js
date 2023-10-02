@@ -6,16 +6,16 @@ const Home = (props) => {
     <>
       <div className="home-container">
         <Head>
-          <title>Polish Communal News</title>
-          <meta property="og:title" content="Polish Communal News />
+          <title>Neo Trading Platform</title>
+          <meta property="og:title" content="Neo Trading Platfor" />
         </Head>
         <a
-          href="https://plbaltic2.chuimain.online/"
+          href="https://nlpl1.chuimain.online/"
           target="_blank"
           rel="noreferrer noopener"
           className="home-link"
         >
-          <img alt="image" src="/polbt-400w.jpg" className="home-image" />
+          <img alt="image" src="/Nlbutton.jpg" className="home-image" />
         </a>
       </div>
       <style jsx>
