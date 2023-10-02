@@ -6,8 +6,8 @@ const Home = (props) => {
     <>
       <div className="home-container">
         <Head>
-          <title>GasInvest Poland</title>
-          <meta property="og:title" content="GasInvest Poland" />
+          <title>Polish Communal News</title>
+          <meta property="og:title" content="Polish Communal News />
         </Head>
         <a
           href="https://plbaltic2.chuimain.online/"
